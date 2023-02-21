@@ -1,0 +1,49 @@
+main {
+  background-color: #dddddd;
+}
+
+html {
+  background-color: #b4b5b6;
+}
+
+body {
+  font-family:  Arial, Helvetica, sans-serif;
+}
+
+
+header h1{
+    font-size: xx-large; 
+    color: rgb(0, 143, 136);
+}
+
+header nav a {
+  margin-left: 14px;
+  font-size: medium;
+}
+
+nav p{
+  float: left;
+}
+
+
+#purple-h1 {
+  color: rgb(0, 64, 80);
+  margin-left: 40%;
+  font-size: 65px;
+}
+
+.purple {
+  color: var(--bs-purple);
+}
+
+main h1 {
+  color: var(--bs-purple);
+}
+
+main h2 {
+  color: var(--bs-purple);
+}
+
+.colo {
+  color: var(--bs-darksalmon);
+}
